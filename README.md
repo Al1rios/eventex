@@ -2,6 +2,10 @@
 
 Sistema de Eventos encomendado pela Morena
 
+[![Build Status](https://travis-ci.org/Al1rios/eventex.svg?branch=master)](https://travis-ci.org/Al1rios/eventex)
+
+[![Code Health](https://landscape.io/github/Al1rios/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/Al1rios/eventex/master)
+
 ## Como Desenvolver?
 
 1. Clone o repositorio.
